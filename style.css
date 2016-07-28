@@ -1,0 +1,25 @@
+body.amuseme {
+    background-image: url("http://az616578.vo.msecnd.net/files/2016/03/11/635932734909157496651194192_nyc-letters.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#header {
+    opacity: 0.6;
+    background-color:black;
+    height:20px;
+    text-align:center;
+    padding:60px;
+}
+button{
+    length:780px;
+    weight:743px;
+}
+
+#howtoinfo{
+    margin-right:105px;
+    display:none;
+     opacity: 0.9;
+    filter: alpha(opacity=50);
+    
+}
+
