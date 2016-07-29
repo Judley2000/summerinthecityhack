@@ -1,0 +1,15 @@
+body {
+    background-image: url("http://66.media.tumblr.com/5932262091418ba2f1084a5b5d7e63a9/tumblr_mw65joRtbw1sd0cioo6_r1_500.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#winningmessage {
+    opacity: 0.6;
+    background-color: green;
+    height: 20px;
+    text-align: center;
+    padding: 60px;
+    color: white;
+    
+}
